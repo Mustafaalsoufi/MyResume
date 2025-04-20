@@ -35,5 +35,7 @@ The focus was on practicing:
 - Git & GitHub
 - GitHub Pages (for deployment)
 
-## 🙋‍♂️
-# MyResume
+## 🙋‍♂️ Author
+
+**Mustafa Alsoufi**  
+Self-taught web developer in training 🚀
